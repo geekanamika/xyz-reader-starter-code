@@ -14,12 +14,20 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <resources>
     <color name="photo_placeholder">#ccc</color>
-
     <color name="theme_primary">#04561A</color>
     <color name="theme_primary_dark">#04561A</color>
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
+
+    <color name="primaryColor">#2196F3</color>
+    <color name="primaryDarkColor">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="secondaryColor">#BBDEFB</color>
+    <color name="primaryTextColor">#212121</color>
+    <color name="secondaryTextColor">#757575</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="windowsBackground">#FFFFFF</color>
 </resources>
