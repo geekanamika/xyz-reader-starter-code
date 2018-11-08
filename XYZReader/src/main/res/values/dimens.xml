@@ -8,4 +8,9 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
+    <dimen name="height_app_bar">100dp</dimen>
+    <dimen name="padding_recycler_view">4dp</dimen>
+    <dimen name="margin_share_button">20dp</dimen>
+    <dimen name="elevation_max_width_linear_layout">6dp</dimen>
+
 </resources>

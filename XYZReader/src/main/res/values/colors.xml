@@ -30,4 +30,7 @@
     <color name="divider">#BDBDBD</color>
     <color name="icons">#FFFFFF</color>
     <color name="windowsBackground">#FFFFFF</color>
+    <color name="background_meta_bar">#333</color>
+    <color name="text_color_article_byline">#8fff</color>
+    <color name="black">#000</color>
 </resources>
